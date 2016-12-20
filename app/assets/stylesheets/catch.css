@@ -1,0 +1,16 @@
+#canvas {
+  margin: auto;
+  width: 50%;
+}
+
+section {
+    width:auto;
+    height:100%;
+    background-color:white;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#c {
+    background-color: black;
+}
